@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="松烟油烟胶料药材">
+<defs>
+<linearGradient id="p3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f1e4"/><stop offset="1" stop-color="#e8ddc6"/></linearGradient>
+<radialGradient id="s3" cx="0.5" cy="0.4" r="0.6"><stop offset="0" stop-color="#241e18"/><stop offset="1" stop-color="#0c0a08"/></radialGradient>
+</defs>
+<rect width="800" height="520" fill="url(#p3)"/>
+<ellipse cx="400" cy="420" rx="330" ry="34" fill="#1d1915" opacity="0.14"/>
+<!-- pine branch -->
+<path d="M70 180 C140 150 190 120 250 96" stroke="#4a3d2c" stroke-width="9" fill="none" stroke-linecap="round"/>
+<g stroke="#2c3a2c" stroke-width="3" stroke-linecap="round" opacity="0.8">
+<path d="M120 158 l-34 -18 M120 158 l-30 6 M160 140 l-30 -22 M160 140 l-28 10 M205 118 l-28 -22 M205 118 l-24 12"/>
+</g>
+<!-- soot bowl -->
+<ellipse cx="210" cy="330" rx="120" ry="36" fill="#3a3128"/>
+<ellipse cx="210" cy="320" rx="120" ry="34" fill="#211b15"/>
+<ellipse cx="210" cy="316" rx="96" ry="24" fill="url(#s3)"/>
+<circle cx="180" cy="312" r="5" fill="#4a4238" opacity="0.7"/><circle cx="235" cy="320" r="4" fill="#4a4238" opacity="0.6"/>
+<!-- glue pot -->
+<path d="M470 250 h180 l-16 130 a20 20 0 0 1 -20 18 h-108 a20 20 0 0 1 -20 -18 z" fill="#5b4a38" stroke="#3a2e20" stroke-width="3"/>
+<ellipse cx="560" cy="252" rx="90" ry="22" fill="#7a6244"/>
+<ellipse cx="560" cy="248" rx="78" ry="16" fill="#caa96a" opacity="0.85"/>
+<!-- steam -->
+<path d="M520 220 c-18 -26 18 -38 0 -64 c-16 -22 14 -34 4 -54" stroke="#8a8072" stroke-width="4" fill="none" opacity="0.5" stroke-linecap="round"/>
+<path d="M588 222 c16 -24 -16 -38 0 -62 c14 -20 -12 -34 -2 -54" stroke="#8a8072" stroke-width="4" fill="none" opacity="0.45" stroke-linecap="round"/>
+<!-- herbs -->
+<g>
+<circle cx="640" cy="330" r="10" fill="#9e3b2e"/>
+<circle cx="664" cy="352" r="7" fill="#b8933f"/>
+<circle cx="620" cy="356" r="6" fill="#3d4a52"/>
+<path d="M612 300 q14 -22 28 0 q-14 10 -28 0" fill="#5a6b4a"/>
+</g>
+<text x="400" y="470" font-family="serif" font-size="30" fill="#3a3128" text-anchor="middle" opacity="0.8">烟 · 胶 · 药 · 料</text>
+</svg>

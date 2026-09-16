@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="拌烟和胶成团">
+<defs><radialGradient id="mk" cx="0.5" cy="0.4" r="0.6"><stop offset="0" stop-color="#3a332b"/><stop offset="1" stop-color="#100d0a"/></radialGradient></defs>
+<rect width="800" height="520" fill="#f4eee0"/>
+<ellipse cx="400" cy="350" rx="280" ry="90" fill="#d9cdb2" stroke="#b6a784" stroke-width="3"/>
+<ellipse cx="400" cy="330" rx="170" ry="86" fill="url(#mk)"/>
+<ellipse cx="350" cy="300" rx="60" ry="22" fill="#4a4238" opacity="0.5"/>
+<!-- pouring glue -->
+<path d="M230 120 l70 0 l-10 40 l-50 0 z" fill="#7a6244" stroke="#3a2e20" stroke-width="3"/>
+<path d="M290 160 c10 30 30 44 56 56 c-26 -4 -46 2 -58 22 c-14 -26 -24 -48 -10 -80 z" fill="#caa96a" opacity="0.85"/>
+<!-- dust -->
+<g fill="#2c2620" opacity="0.7"><circle cx="470" cy="220" r="4"/><circle cx="500" cy="250" r="3"/><circle cx="530" cy="226" r="3.5"/><circle cx="452" cy="252" r="2.5"/><circle cx="556" cy="252" r="3"/></g>
+<!-- hand hint -->
+<path d="M560 300 q40 -10 70 18 q-30 26 -70 12 z" fill="#d9b48c" stroke="#a87f56" stroke-width="2"/>
+<text x="400" y="478" font-family="serif" font-size="28" fill="#3a3128" text-anchor="middle" opacity="0.85">注胶拌烟 · 捏之成团</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="窑壁扫烟与灯碗取炱">
+<defs>
+<linearGradient id="p4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6f0e3"/><stop offset="1" stop-color="#e6dbc4"/></linearGradient>
+</defs>
+<rect width="800" height="520" fill="#f4eee0"/>
+<!-- left: kiln wall -->
+<path d="M40 120 h330 v300 h-330 z" fill="#4a3f33"/>
+<path d="M60 140 h290 v260 h-290 z" fill="#211b15"/>
+<g fill="#0a0807"><circle cx="110" cy="200" r="26"/><circle cx="200" cy="250" r="34"/><circle cx="290" cy="180" r="22"/><circle cx="150" cy="330" r="30"/><circle cx="270" cy="330" r="24"/></g>
+<g fill="#3d352c"><circle cx="110" cy="200" r="26" opacity="0.5"/><circle cx="200" cy="250" r="34" opacity="0.5"/><circle cx="150" cy="330" r="30" opacity="0.5"/></g>
+<path d="M250 120 l70 -40 l10 14 l-66 40 z" fill="#8a7a5e"/>
+<path d="M318 84 l12 4" stroke="#8a7a5e" stroke-width="6" stroke-linecap="round"/>
+<text x="205" y="466" font-family="serif" font-size="26" fill="#d8cdb4" text-anchor="middle">窑壁扫松烟</text>
+<!-- right: lamp bowl -->
+<line x1="500" y1="140" x2="740" y2="140" stroke="#5c4d3a" stroke-width="7"/>
+<path d="M556 140 v60 M684 140 v60" stroke="#5c4d3a" stroke-width="7"/>
+<ellipse cx="620" cy="252" rx="72" ry="20" fill="#5b4a38"/>
+<path d="M552 252 h136 l-12 70 h-112 z" fill="#6f5a42"/>
+<ellipse cx="620" cy="250" rx="58" ry="13" fill="#c99c4a"/>
+<path d="M620 250 c-2 -26 10 -30 0 -52 c-10 22 2 26 0 52 z" fill="#e8a23a"/>
+<path d="M620 250 c-1 -14 6 -16 0 -28 c-6 12 1 14 0 28 z" fill="#f2d27a"/>
+<ellipse cx="620" cy="200" rx="64" ry="18" fill="#17130e" opacity="0.88"/>
+<g fill="#1d1915" opacity="0.85"><circle cx="592" cy="196" r="5"/><circle cx="638" cy="202" r="4"/><circle cx="615" cy="190" r="3"/></g>
+<text x="620" y="466" font-family="serif" font-size="26" fill="#3a3128" text-anchor="middle">灯碗扫油烟</text>
+</svg>

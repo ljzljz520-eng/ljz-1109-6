@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="双锤捶打墨泥">
+<defs><linearGradient id="ph" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f1e4"/><stop offset="1" stop-color="#e7dcc5"/></linearGradient></defs>
+<rect width="800" height="520" fill="url(#ph)"/>
+<!-- stone anvil -->
+<path d="M150 330 h500 l-30 130 h-440 z" fill="#6b655d" stroke="#45403a" stroke-width="3"/>
+<path d="M150 330 h500 l-8 34 h-484 z" fill="#827b71"/>
+<ellipse cx="400" cy="336" rx="150" ry="30" fill="#1a1612"/>
+<!-- impact marks -->
+<g stroke="#b8933f" stroke-width="4" opacity="0.8"><path d="M370 286 l-20 -18 M430 286 l22 -16 M400 278 v-26"/></g>
+<!-- hammer left -->
+<g transform="rotate(38 260 300)">
+<rect x="238" y="120" width="44" height="200" rx="8" fill="#7a5c3a" stroke="#4a3822" stroke-width="3"/>
+<rect x="200" y="286" width="120" height="46" rx="8" fill="#4d463e" stroke="#2c2823" stroke-width="3"/>
+</g>
+<!-- hammer right -->
+<g transform="rotate(-38 540 300)">
+<rect x="518" y="120" width="44" height="200" rx="8" fill="#7a5c3a" stroke="#4a3822" stroke-width="3"/>
+<rect x="480" y="286" width="120" height="46" rx="8" fill="#4d463e" stroke="#2c2823" stroke-width="3"/>
+</g>
+<text x="400" y="498" font-family="serif" font-size="28" fill="#3a3128" text-anchor="middle" opacity="0.85">两锤对杵 · 一锭万锤</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="水墨远山与一锭徽墨">
+<defs>
+<linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f3e8"/><stop offset="1" stop-color="#ece2cd"/></linearGradient>
+<radialGradient id="w" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#1d1915" stop-opacity="0.18"/><stop offset="1" stop-color="#1d1915" stop-opacity="0"/></radialGradient>
+<linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#332c25"/><stop offset="0.5" stop-color="#18140f"/><stop offset="1" stop-color="#0c0a08"/></linearGradient>
+</defs>
+<rect width="800" height="520" fill="url(#p)"/>
+<circle cx="628" cy="120" r="58" fill="#a8482f" opacity="0.16"/>
+<circle cx="628" cy="120" r="34" fill="#a8482f" opacity="0.22"/>
+<ellipse cx="400" cy="250" rx="360" ry="150" fill="url(#w)"/>
+<path d="M0 380 C110 320 180 330 260 300 C340 270 420 330 500 305 C600 272 680 300 800 270 L800 520 L0 520 Z" fill="#2b251f" opacity="0.55"/>
+<path d="M0 425 C130 380 240 405 360 372 C480 340 590 392 800 355 L800 520 L0 520 Z" fill="#17130e" opacity="0.75"/>
+<ellipse cx="400" cy="470" rx="230" ry="26" fill="#1d1915" opacity="0.18"/>
+<g transform="translate(400 262)">
+<rect x="-42" y="-150" width="84" height="300" rx="10" fill="url(#ink)" stroke="#0a0807" stroke-width="2"/>
+<rect x="-42" y="-118" width="84" height="12" fill="#b8933f" opacity="0.85"/>
+<rect x="-42" y="106" width="84" height="12" fill="#b8933f" opacity="0.85"/>
+<rect x="-20" y="-40" width="40" height="80" rx="4" fill="#9e3b2e" opacity="0.92"/>
+<text x="0" y="11" font-family="serif" font-size="34" fill="#f2e7d2" text-anchor="middle">徽墨</text>
+</g>
+<path d="M120 220 C200 200 260 230 330 214 M470 214 C540 232 600 198 690 218" stroke="#5c5246" stroke-width="2" opacity="0.45" fill="none"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="墨模压坯">
+<defs><linearGradient id="pm" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f1e4"/><stop offset="1" stop-color="#e7dcc5"/></linearGradient></defs>
+<rect width="800" height="520" fill="url(#pm)"/>
+<!-- lower mold -->
+<rect x="180" y="290" width="440" height="70" rx="10" fill="#8a6a45" stroke="#543e26" stroke-width="3"/>
+<rect x="210" y="300" width="380" height="50" rx="8" fill="#a8875c"/>
+<g stroke="#543e26" stroke-width="2" fill="none" opacity="0.75">
+<path d="M250 325 h300"/>
+<path d="M250 315 q40 16 80 0 q40 -16 80 0 q40 16 80 0 q40 -16 60 0"/>
+<path d="M250 337 q40 -14 80 0 q40 14 80 0 q40 -14 80 0 q40 14 60 0"/>
+</g>
+<!-- ink stick in mold -->
+<rect x="270" y="226" width="260" height="66" rx="8" fill="#1a1612" stroke="#0a0807" stroke-width="2"/>
+<rect x="270" y="240" width="260" height="6" fill="#b8933f" opacity="0.7"/>
+<!-- upper mold / press -->
+<rect x="160" y="150" width="480" height="56" rx="8" fill="#6e5233" stroke="#4a3822" stroke-width="3"/>
+<line x1="400" y1="100" x2="400" y2="150" stroke="#4a3822" stroke-width="10"/>
+<path d="M360 100 h80 l-10 -26 h-60 z" fill="#5c4d3a"/>
+<path d="M300 216 v14 M500 216 v14 M350 216 v14 M450 216 v14" stroke="#3a2e20" stroke-width="6"/>
+<text x="400" y="430" font-family="serif" font-size="28" fill="#3a3128" text-anchor="middle" opacity="0.85">入模重压 · 纹样落墨</text>
+</svg>

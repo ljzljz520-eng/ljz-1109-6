@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="蒸胶滤胶">
+<defs><linearGradient id="pj" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f1e4"/><stop offset="1" stop-color="#e7dcc5"/></linearGradient></defs>
+<rect width="800" height="520" fill="url(#pj)"/>
+<!-- steamer -->
+<path d="M250 280 h300 l-22 150 a24 24 0 0 1 -24 20 h-208 a24 24 0 0 1 -24 -20 z" fill="#5b4a38" stroke="#3a2e20" stroke-width="3"/>
+<path d="M272 250 h256 l-14 40 h-228 z" fill="#7a6244" stroke="#3a2e20" stroke-width="3"/>
+<path d="M296 220 h208 l-12 34 h-184 z" fill="#8f7754" stroke="#3a2e20" stroke-width="3"/>
+<g stroke="#8a8072" stroke-width="6" fill="none" opacity="0.55" stroke-linecap="round">
+<path d="M340 200 c-20 -30 22 -44 0 -74 c-18 -26 18 -40 4 -66"/>
+<path d="M400 200 c-20 -30 22 -44 0 -74 c-18 -26 18 -40 4 -66"/>
+<path d="M460 200 c-20 -30 22 -44 0 -74 c-18 -26 18 -40 4 -66"/>
+</g>
+<!-- fire -->
+<path d="M370 452 c8 -26 22 -34 30 -58 c8 24 22 32 30 58 z" fill="#d97a2e"/>
+<path d="M386 452 c6 -16 14 -22 14 -36 c0 14 8 20 14 36 z" fill="#f2c14e"/>
+<!-- dripping glue through cloth -->
+<path d="M560 260 q60 20 120 0 l-10 26 q-50 18 -100 0 z" fill="#d8cdb4" stroke="#9a8d74" stroke-width="2"/>
+<path d="M660 286 c0 16 -10 20 -10 34 c0 8 20 8 20 0 c0 -14 -10 -18 -10 -34 z" fill="#caa96a" opacity="0.9"/>
+<text x="400" y="492" font-family="serif" font-size="28" fill="#3a3128" text-anchor="middle" opacity="0.85">干胶慢蒸 · 麻布滤净</text>
+</svg>

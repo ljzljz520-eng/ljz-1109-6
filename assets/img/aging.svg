@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="陈墨与包纸">
+<defs><linearGradient id="pa" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f1e4"/><stop offset="1" stop-color="#e7dcc5"/></linearGradient></defs>
+<rect width="800" height="520" fill="url(#pa)"/>
+<!-- wrapped stick -->
+<g transform="rotate(-6 280 300)">
+<rect x="200" y="250" width="170" height="120" rx="10" fill="#efe6d2" stroke="#c0b18e" stroke-width="2"/>
+<path d="M200 250 q85 26 170 0 M200 370 q85 -26 170 0" fill="none" stroke="#c0b18e" stroke-width="2"/>
+<rect x="270" y="250" width="30" height="120" fill="#a8482f" opacity="0.8"/>
+</g>
+<!-- bare aged sticks -->
+<g transform="rotate(5 520 280)">
+<rect x="470" y="200" width="52" height="200" rx="8" fill="#16120e" stroke="#0a0807" stroke-width="2"/>
+<rect x="470" y="216" width="52" height="8" fill="#b8933f" opacity="0.85"/>
+<rect x="470" y="376" width="52" height="8" fill="#b8933f" opacity="0.85"/>
+<rect x="486" y="262" width="20" height="70" rx="3" fill="#9e3b2e" opacity="0.9"/>
+</g>
+<g transform="rotate(2 600 290)">
+<rect x="560" y="220" width="46" height="170" rx="8" fill="#1c1814" stroke="#0a0807" stroke-width="2"/>
+<rect x="560" y="234" width="46" height="7" fill="#b8933f" opacity="0.75"/>
+</g>
+<!-- seal -->
+<rect x="150" y="120" width="56" height="56" rx="6" fill="#9e3b2e" opacity="0.92"/>
+<text x="178" y="158" font-family="serif" font-size="30" fill="#f2e7d2" text-anchor="middle">陳</text>
+<text x="400" y="466" font-family="serif" font-size="28" fill="#3a3128" text-anchor="middle" opacity="0.85">陈墨如药 · 岁月收功</text>
+</svg>

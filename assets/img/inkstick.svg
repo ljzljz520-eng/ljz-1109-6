@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="一锭墨的形象图">
+<defs>
+<linearGradient id="p2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f1e4"/><stop offset="1" stop-color="#e9dfc9"/></linearGradient>
+<linearGradient id="b2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#342d25"/><stop offset="1" stop-color="#0f0c09"/></linearGradient>
+</defs>
+<rect width="800" height="520" fill="url(#p2)"/>
+<ellipse cx="400" cy="392" rx="190" ry="30" fill="#1d1915" opacity="0.18"/>
+<g transform="rotate(-8 400 280)">
+<rect x="280" y="130" width="240" height="300" rx="18" fill="url(#b2)" stroke="#0a0807" stroke-width="2"/>
+<rect x="280" y="162" width="240" height="14" fill="#b8933f" opacity="0.8"/>
+<rect x="280" y="384" width="240" height="14" fill="#b8933f" opacity="0.8"/>
+<rect x="350" y="210" width="100" height="120" rx="8" fill="#9e3b2e" opacity="0.9"/>
+<text x="400" y="288" font-family="serif" font-size="56" fill="#f2e7d2" text-anchor="middle">墨</text>
+</g>
+</svg>

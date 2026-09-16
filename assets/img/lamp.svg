@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="灯盏取油烟">
+<defs><linearGradient id="pl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f1e4"/><stop offset="1" stop-color="#e7dcc5"/></linearGradient></defs>
+<rect width="800" height="520" fill="url(#pl)"/>
+<g stroke="#5c4d3a" stroke-width="8">
+<line x1="120" y1="130" x2="680" y2="130"/>
+<line x1="150" y1="130" x2="150" y2="300"/>
+<line x1="400" y1="130" x2="400" y2="300"/>
+<line x1="650" y1="130" x2="650" y2="300"/>
+<line x1="110" y1="300" x2="690" y2="300"/>
+</g>
+<g>
+<!-- lamp template 3x -->
+<g transform="translate(150 0)"><ellipse cx="0" cy="330" rx="60" ry="16" fill="#5b4a38"/><path d="M-52 330 h104 l-10 52 h-84 z" fill="#7a6244"/><ellipse cx="0" cy="328" rx="46" ry="11" fill="#c99c4a"/><path d="M0 328 c-2 -20 8 -24 0 -42 c-8 18 2 22 0 42 z" fill="#e8a23a"/><ellipse cx="0" cy="284" rx="52" ry="14" fill="#17130e" opacity="0.86"/></g>
+<g transform="translate(400 0)"><ellipse cx="0" cy="330" rx="60" ry="16" fill="#5b4a38"/><path d="M-52 330 h104 l-10 52 h-84 z" fill="#7a6244"/><ellipse cx="0" cy="328" rx="46" ry="11" fill="#c99c4a"/><path d="M0 328 c-2 -20 8 -24 0 -42 c-8 18 2 22 0 42 z" fill="#e8a23a"/><ellipse cx="0" cy="284" rx="52" ry="14" fill="#17130e" opacity="0.86"/></g>
+<g transform="translate(650 0)"><ellipse cx="0" cy="330" rx="60" ry="16" fill="#5b4a38"/><path d="M-52 330 h104 l-10 52 h-84 z" fill="#7a6244"/><ellipse cx="0" cy="328" rx="46" ry="11" fill="#c99c4a"/><path d="M0 328 c-2 -20 8 -24 0 -42 c-8 18 2 22 0 42 z" fill="#e8a23a"/><ellipse cx="0" cy="284" rx="52" ry="14" fill="#17130e" opacity="0.86"/></g>
+</g>
+<!-- feather sweeping -->
+<path d="M520 220 q-26 -10 -52 6 q24 16 52 -6" fill="#e8ddc5" stroke="#9a8d74" stroke-width="2"/>
+<line x1="520" y1="220" x2="560" y2="250" stroke="#6e5a3e" stroke-width="4" stroke-linecap="round"/>
+<text x="400" y="450" font-family="serif" font-size="28" fill="#3a3128" text-anchor="middle" opacity="0.85">灯盏覆碗 · 鹅毛扫烟</text>
+</svg>

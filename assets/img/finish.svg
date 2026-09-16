@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="锦匣封藏">
+<defs><linearGradient id="pf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f1e4"/><stop offset="1" stop-color="#e7dcc5"/></linearGradient></defs>
+<rect width="800" height="520" fill="url(#pf)"/>
+<!-- open box -->
+<path d="M180 300 h440 l-30 140 h-380 z" fill="#6e2f24" stroke="#421a12" stroke-width="3"/>
+<path d="M180 300 h440 l-12 26 h-416 z" fill="#8a3d2c"/>
+<rect x="220" y="330" width="360" height="24" rx="6" fill="#d9cdb2"/>
+<!-- lid -->
+<path d="M150 260 h500 l-20 -46 h-460 z" fill="#7d3526" stroke="#421a12" stroke-width="3"/>
+<!-- sticks inside -->
+<g fill="#16120e"><rect x="250" y="266" width="40" height="60" rx="6"/><rect x="330" y="266" width="40" height="60" rx="6"/><rect x="410" y="266" width="40" height="60" rx="6"/><rect x="490" y="266" width="40" height="60" rx="6"/></g>
+<g fill="#c9a24a" opacity="0.8"><rect x="250" y="280" width="40" height="4"/><rect x="330" y="280" width="40" height="4"/><rect x="410" y="280" width="40" height="4"/><rect x="490" y="280" width="40" height="4"/></g>
+<!-- cloth wrap -->
+<path d="M560 180 q70 10 90 60 q-60 24 -104 -20 q20 -22 14 -40 z" fill="#efe6d2" stroke="#c0b18e" stroke-width="2"/>
+<text x="400" y="486" font-family="serif" font-size="28" fill="#3a3128" text-anchor="middle" opacity="0.85">棉纸锦匣 · 封藏陈化</text>
+</svg>

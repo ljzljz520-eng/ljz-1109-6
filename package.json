@@ -1,0 +1,14 @@
+{
+  "name": "huimo-site",
+  "version": "1.0.0",
+  "description": "徽墨制作技艺专题站：原料、制烟、和胶、捶打、晾墨、题款六章与墨锭案例。纯静态，无前端框架。",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node tools/check-build.mjs",
+    "start": "node tools/serve.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

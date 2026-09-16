@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="五彩墨礼盒">
+<defs><linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f1e4"/><stop offset="1" stop-color="#e7dcc5"/></linearGradient></defs>
+<rect width="800" height="520" fill="url(#bg3)"/>
+<ellipse cx="400" cy="410" rx="300" ry="30" fill="#1d1915" opacity="0.15"/>
+<!-- box tray -->
+<path d="M160 360 h480 l-24 70 h-432 z" fill="#6e2f24" stroke="#421a12" stroke-width="3"/>
+<path d="M160 360 h480 l-8 18 h-464 z" fill="#8a3d2c"/>
+<!-- five gui-shaped colored sticks -->
+<g>
+<g transform="translate(0 0)"><path d="M210 200 l24 -34 l24 34 v150 h-48 z" fill="#2e4a63" stroke="#1c2e3e" stroke-width="2"/></g>
+<g transform="translate(88 0)"><path d="M210 200 l24 -34 l24 34 v150 h-48 z" fill="#3f6b4f" stroke="#28452f" stroke-width="2"/></g>
+<g transform="translate(176 0)"><path d="M210 200 l24 -34 l24 34 v150 h-48 z" fill="#9e3b2e" stroke="#66241a" stroke-width="2"/></g>
+<g transform="translate(264 0)"><path d="M210 200 l24 -34 l24 34 v150 h-48 z" fill="#c9a24a" stroke="#8a6a2c" stroke-width="2"/></g>
+<g transform="translate(352 0)"><path d="M210 200 l24 -34 l24 34 v150 h-48 z" fill="#ece2cd" stroke="#b0a58a" stroke-width="2"/></g>
+</g>
+<text x="400" y="486" font-family="serif" font-size="26" fill="#3a3128" text-anchor="middle" opacity="0.85">石青 石绿 朱砂 雌黄 白垩</text>
+</svg>

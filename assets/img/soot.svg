@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="卧窑烧松">
+<defs><linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6f0e2"/><stop offset="1" stop-color="#e6dbc2"/></linearGradient></defs>
+<rect width="800" height="520" fill="url(#pg)"/>
+<!-- kiln mound -->
+<path d="M40 420 v-150 C120 210 260 180 400 180 C560 180 700 215 760 270 v150 z" fill="#5a4c3c"/>
+<path d="M70 420 v-140 C150 250 280 222 400 222 C545 222 670 255 730 300 v120 z" fill="#2c241c"/>
+<!-- fire mouth -->
+<path d="M330 420 v-90 a70 70 0 0 1 140 0 v90 z" fill="#0f0c09"/>
+<path d="M370 420 v-64 c10 -34 20 -40 30 -62 c10 22 20 28 30 62 v64 z" fill="#d97a2e"/>
+<path d="M388 420 v-52 c8 -22 12 -26 12 -40 c0 14 6 18 12 40 v52 z" fill="#f2c14e"/>
+<!-- flue smoke -->
+<rect x="716" y="210" width="30" height="96" fill="#3a3128"/>
+<g fill="none" stroke="#4c443a" stroke-linecap="round" opacity="0.5">
+<path d="M731 200 c-30 -22 6 -40 -18 -60" stroke-width="8"/>
+<path d="M731 200 c30 -20 -4 -42 22 -64" stroke-width="7"/>
+<path d="M728 196 c-2 -30 -24 -34 -16 -62" stroke-width="6"/>
+</g>
+<!-- pine logs -->
+<g stroke="#2c2018" stroke-width="3">
+<rect x="150" y="380" width="120" height="26" rx="13" fill="#6e4f33"/>
+<rect x="180" y="352" width="110" height="24" rx="12" fill="#7d5c3c"/>
+</g>
+<text x="400" y="486" font-family="serif" font-size="28" fill="#ece2cd" text-anchor="middle" opacity="0.85">卧窑闷烧 · 烟行窑道</text>
+</svg>
